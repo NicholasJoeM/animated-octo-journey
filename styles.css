@@ -1,0 +1,130 @@
+/*body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}*/
+
+
+  
+body {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+  }
+  
+  
+  #content {
+	max-width: 800px;
+	margin: 0 auto;
+  }
+  
+  
+  h1 {
+	font-size: 2rem;
+	text-align: center;
+	margin-top: 2rem;
+  }
+  
+  h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+  }
+  
+  
+  p {
+	line-height: 1.5;
+	margin-bottom: 1.5rem;
+  }
+  
+  
+  li {
+	line-height: 1.5;
+	margin-bottom: 0.5rem;
+  }
+  
+  
+  form input {
+	display: block;
+	margin-bottom: 1rem;
+	padding: 0.5rem;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	width: 100%;
+	max-width: 400px;
+  }
+  
+  form textarea {
+	display: block;
+	margin-bottom: 1rem;
+	padding: 0.5rem;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	width: 100%;
+	max-width: 400px;
+  }
+  
+  
+  form input[type="submit"] {
+	background-color: #007bff;
+	color: #fff;
+	border: none;
+	padding: 0.5rem 1rem;
+	border-radius: 5px;
+	cursor: pointer;
+  }
+  
+  
+  form label {
+	display: inline-block;
+	margin-right: 0.5rem;
+  }
+  
+  
+  #cat-image {
+	display: block;
+	margin: 0 auto;
+	width: 50%;
+	height: auto;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  .fav-button {
+	background-color: yellow;
+	font-size: 20px;
+	padding: 10px 20px;
+	border-radius: 5px;
+  }
+  
